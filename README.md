@@ -25,4 +25,4 @@ Model sonucunda müşteriler 4 ana gruba ayrılmıştır:
 
 > *Not: Küme merkezleri grafikte mavi 'X' işareti ile belirtilmiştir.*
 > 
-`![Müşteri Segmentasyonu](müsteri_segmentasyonu.png)`
+![Müşteri Segmentasyonu](müsteri_segmentasyonu.png)
